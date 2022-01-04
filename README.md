@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camellia Guan, a Class of 2024 undergraduate at Cornell University. I am in the College of Engineering, majoring in Computer Science.
-- 👀 I’m interested in Python, Java, C++, C, HTML/CSS, and Javascript.
-- 🌱 I’m currently learning to use applications/software such as Flask, Docker, etc.
+- 👀 I’m interested in teaching and software engineering opportunities in Python, Java, C++, C, HTML/CSS, and Javascript.
+<!---- 🌱 I’m currently learning to use . --->
 - 📫 How to reach me: camelliaguan3@gmail.com
 
 <!---
